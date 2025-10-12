@@ -20,7 +20,25 @@
         "offal",
         "gelatin",
         "animal-fat",
-        "lard"
+        "lard",
+        "tobacco-products",
+        "cigarettes",
+        "cigars",
+        "cigarillos",
+        "smoking-tobacco",
+        "pipe-tobacco",
+        "rolling-tobacco",
+        "chewing-tobacco",
+        "snuff",
+        "snus",
+        "hookah-tobacco",
+        "waterpipe-tobacco",
+        "shisha-tobacco",
+        "e-liquids",
+        "vaping-products",
+        "nicotine-products",
+        "nicotine-pouches",
+        "e-cigarettes"
       ],
       "ingredients_tags": [
         "pork",
@@ -61,7 +79,11 @@
         "carmine",
         "alcohol",
         "ethanol",
-        "ethyl-alcohol"
+        "ethyl-alcohol",
+        "tobacco",
+        "tobacco-extract",
+        "nicotine",
+        "nicotine-salts"
       ],
       "additives_tags": [
         "e120",
@@ -81,7 +103,12 @@
         "processed-meat",
         "gelatin-desserts",
         "cheeses",
-        "fermented-products"
+        "fermented-products",
+        "flavored-products",
+        "aromatic-products",
+        "e-liquid-flavors",
+        "vape-flavors",
+        "mentholated-products"
       ],
       "ingredients_tags": [
         "gelatin",
@@ -99,7 +126,15 @@
         "meat-extract",
         "animal-fat",
         "fat",
-        "animal-oil"
+        "animal-oil",
+        "propylene-glycol",
+        "vegetable-glycerin",
+        "glycerol",
+        "flavor",
+        "aroma",
+        "menthol",
+        "ethyl-alcohol", 
+        "ethanol"
       ],
       "additives_tags": [
         "e471",
