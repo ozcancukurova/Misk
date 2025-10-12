@@ -1,0 +1,128 @@
+{
+  "version": "mvp-1.1",
+  "rules": {
+    "notHalal": {
+      "categories_tags": [
+        "alcoholic-beverages",
+        "beers",
+        "wines",
+        "ciders",
+        "spirits",
+        "aperitifs",
+        "liqueurs",
+        "cocktails",
+        "meads",
+        "pork-products",
+        "pork-meats",
+        "charcuteries",
+        "blood-products",
+        "blood-sausages",
+        "offal",
+        "gelatin",
+        "animal-fat",
+        "lard"
+      ],
+      "ingredients_tags": [
+        "pork",
+        "porcine",
+        "swine",
+        "pig",
+        "boar",
+        "hog",
+        "bacon",
+        "ham",
+        "prosciutto",
+        "salami",
+        "lard",
+        "gelatin:pork",
+        "pork-gelatin",
+        "porcine-gelatin",
+        "blood",
+        "blood-powder",
+        "blood-plasma",
+        "carrion",
+        "carnivorous",
+        "reptile",
+        "snake",
+        "frog",
+        "turtle",
+        "dog",
+        "cat",
+        "lion",
+        "tiger",
+        "bear",
+        "monkey",
+        "eagle",
+        "hawk",
+        "owl",
+        "vulture",
+        "shellac",
+        "cochineal",
+        "carmine",
+        "alcohol",
+        "ethanol",
+        "ethyl-alcohol"
+      ],
+      "additives_tags": [
+        "e120",   // carmine/cochineal – insect-derived
+        "e441",   // gelatin (usually pork/bovine)
+        "e542",   // edible bone phosphate
+        "e901",   // beeswax
+        "e904",   // shellac
+        "e913",   // lanolin (animal fat)
+        "e920",   // l-cysteine (human/animal hair possible)
+        "e921",   // l-cysteine hydrochloride
+        "e966"    // lactitol (from whey/milk)
+      ]
+    },
+    "cautious": {
+      "categories_tags": [
+        "meat-products",
+        "processed-meat",
+        "gelatin-desserts",
+        "cheeses",
+        "fermented-products"
+      ],
+      "ingredients_tags": [
+        "gelatin",
+        "gelatine",
+        "rennet",
+        "enzymes",
+        "mono-glycerides",
+        "diglycerides",
+        "emulsifier",
+        "shortening",
+        "stock",
+        "broth",
+        "flavoring",
+        "natural-flavoring",
+        "meat-extract",
+        "animal-fat",
+        "fat",
+        "animal-oil"
+      ],
+      "additives_tags": [
+        "e471",   // mono-/diglycerides (source-dependent)
+        "e472",   // esters of mono-/diglycerides
+        "e473",   // sucrose esters of fatty acids
+        "e474",   // sucroglycerides
+        "e475",   // polyglycerol esters
+        "e476",   // polyglycerol polyricinoleate
+        "e477",   // propylene glycol esters
+        "e481",   // sodium stearoyl lactylate
+        "e482",   // calcium stearoyl lactylate
+        "e483",   // stearyl tartrate
+        "e491",
+        "e492",
+        "e493",
+        "e494",
+        "e495",
+        "e570",   // fatty acids
+        "e572",
+        "e573",
+        "e631",   // disodium inosinate (meat-based)
+        "e635"    // disodium ribonucleotides (meat-based)
+      ]
+    }
+  }
+}
