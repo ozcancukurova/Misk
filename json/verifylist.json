@@ -50,7 +50,6 @@
         "bacon",
         "ham",
         "prosciutto",
-        "salami",
         "lard",
         "gelatin:pork",
         "pork-gelatin",
@@ -83,7 +82,14 @@
         "tobacco",
         "tobacco-extract",
         "nicotine",
-        "nicotine-salts"
+        "nicotine-salts",
+        "isopropanol",
+		"isopropyl-alcohol",
+		"propan-2-ol",
+		"methanol",
+		"denatured-alcohol",
+		"l-cysteine",
+		"l-cysteine-hydrochloride"
       ],
       "additives_tags": [
         "e120",
@@ -119,6 +125,7 @@
         "diglycerides",
         "emulsifier",
         "shortening",
+        "salami",
         "stock",
         "broth",
         "flavoring",
@@ -133,8 +140,14 @@
         "flavor",
         "aroma",
         "menthol",
-        "ethyl-alcohol", 
-        "ethanol"
+        "magnesium-stearate",
+		"stearate",
+		"stearic-acid",
+		"lecithin",
+		"glycerin",
+		"glycerine",
+		"vanilla-extract",
+		"tallow"
       ],
       "additives_tags": [
         "e471",
@@ -156,7 +169,9 @@
         "e572",
         "e573",
         "e631",
-        "e635"
+        "e635",
+        "e1518",
+		"e1520"
       ]
     }
   }
