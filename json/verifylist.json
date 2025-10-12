@@ -64,15 +64,15 @@
         "ethyl-alcohol"
       ],
       "additives_tags": [
-        "e120",   // carmine/cochineal – insect-derived
-        "e441",   // gelatin (usually pork/bovine)
-        "e542",   // edible bone phosphate
-        "e901",   // beeswax
-        "e904",   // shellac
-        "e913",   // lanolin (animal fat)
-        "e920",   // l-cysteine (human/animal hair possible)
-        "e921",   // l-cysteine hydrochloride
-        "e966"    // lactitol (from whey/milk)
+        "e120",
+        "e441",
+        "e542",
+        "e901",
+        "e904",
+        "e913",
+        "e920",
+        "e921",
+        "e966"
       ]
     },
     "cautious": {
@@ -102,26 +102,26 @@
         "animal-oil"
       ],
       "additives_tags": [
-        "e471",   // mono-/diglycerides (source-dependent)
-        "e472",   // esters of mono-/diglycerides
-        "e473",   // sucrose esters of fatty acids
-        "e474",   // sucroglycerides
-        "e475",   // polyglycerol esters
-        "e476",   // polyglycerol polyricinoleate
-        "e477",   // propylene glycol esters
-        "e481",   // sodium stearoyl lactylate
-        "e482",   // calcium stearoyl lactylate
-        "e483",   // stearyl tartrate
+        "e471",
+        "e472",
+        "e473",
+        "e474",
+        "e475",
+        "e476",
+        "e477",
+        "e481",
+        "e482",
+        "e483",
         "e491",
         "e492",
         "e493",
         "e494",
         "e495",
-        "e570",   // fatty acids
+        "e570",
         "e572",
         "e573",
-        "e631",   // disodium inosinate (meat-based)
-        "e635"    // disodium ribonucleotides (meat-based)
+        "e631",
+        "e635"
       ]
     }
   }
