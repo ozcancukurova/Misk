@@ -1,0 +1,13 @@
+[
+  { "date": "2025-12-21", "name": "Receb'in başlangıcı (Üç Aylar başlar)", "description": "Receb ayının başlangıcı; dört haram aydan biridir." },
+  { "date": "2026-01-16", "name": "İsrâ ve Mi'râc", "description": "Hz. Muhammed'in gece yolculuğu ve miraç yükselişi." },
+  { "date": "2026-01-20", "name": "Şa'bân'ın başlangıcı", "description": "Şa'bân ayının başlangıcı; Ramazan'dan önceki aydır." },
+  { "date": "2026-02-03", "name": "Berâet Gecesi (Şa'bân'ın 15'i)", "description": "Birçok Müslüman toplumda bağışlanma gecesi." },
+  { "date": "2026-02-19", "name": "Ramazan'ın başlangıcı", "description": "Oruç ayının başlangıcı." },
+  { "date": "2026-03-16", "name": "Kadir Gecesi (muhtemel tarih)", "description": "Kadir Gecesi; yaygın olarak Ramazan'ın 27. gecesinde idrak edilir." },
+  { "date": "2026-03-20", "name": "Ramazan Bayramı (İydü'l-Fıtır)", "description": "Ramazan'ın sonunu kutlayan bayram." },
+  { "date": "2026-05-26", "name": "Arefe Günü", "description": "Zilhicce'nin 9'u; Haccın zirvesi; hacı olmayanlar için oruç tavsiye edilir." },
+  { "date": "2026-05-27", "name": "Kurban Bayramı (İydü'l-Adhâ)", "description": "Kurban Bayramı; Hz. İbrahim’in teslimiyetini anma." },
+  { "date": "2026-06-16", "name": "Hicrî Yılbaşı (1 Muharrem 1448)", "description": "Hicrî yılın başlangıcı; haram bir ay başlar." },
+  { "date": "2026-06-25", "name": "Aşûrâ", "description": "Muharrem'in 10'u; oruç tavsiye edilir; ayrıca Kerbelâ’yı anma." }
+]

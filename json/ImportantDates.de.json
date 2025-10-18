@@ -1,0 +1,13 @@
+[
+  { "date": "2025-12-21", "name": "Beginn von Radschab (Beginn der drei heiligen Monate)", "description": "Beginn des Radschab; einer der vier heiligen Monate." },
+  { "date": "2026-01-16", "name": "Isra und Mi'raj", "description": "Die Nachtreise und Himmelfahrt des Propheten Muhammad." },
+  { "date": "2026-01-20", "name": "Beginn von Schaʿbān", "description": "Beginn des Schaʿbān; der Monat vor dem Ramadan." },
+  { "date": "2026-02-03", "name": "Mitte Schaʿbān (Nisf Schaʿbān / Schab-e-Barat)", "description": "In vielen muslimischen Gemeinschaften die Nacht der Vergebung." },
+  { "date": "2026-02-19", "name": "Beginn des Ramadan", "description": "Beginn des Fastenmonats." },
+  { "date": "2026-03-16", "name": "Lailat al-Qadr (wahrscheinliches Datum)", "description": "Nacht der Bestimmung; häufig in der 27. Nacht des Ramadan begangen." },
+  { "date": "2026-03-20", "name": "Eid al-Fitr (Fest des Fastenbrechens)", "description": "Fest, das das Ende des Ramadan markiert." },
+  { "date": "2026-05-26", "name": "Tag von ʿArafa", "description": "9. Dhu l-Hiddscha; Höhepunkt der Hajj; Fasten für Nichtpilger empfohlen." },
+  { "date": "2026-05-27", "name": "Eid al-Adha (Opferfest)", "description": "Fest des Opfers; gedenkt der Hingabe des Propheten Ibrahim." },
+  { "date": "2026-06-16", "name": "Islamisches Neujahr (1. Muharram 1448)", "description": "Beginn des Hidschra-Jahres; ein heiliger Monat beginnt." },
+  { "date": "2026-06-25", "name": "ʿĀschūrāʾ (Aschura)", "description": "10. Muharram; Fasten empfohlen; erinnert auch an Karbalāʾ." }
+]

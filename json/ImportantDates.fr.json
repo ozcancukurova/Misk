@@ -1,0 +1,13 @@
+[
+  { "date": "2025-12-21", "name": "Début de Rajab (début des trois mois sacrés)", "description": "Début de Rajab ; l’un des quatre mois sacrés." },
+  { "date": "2026-01-16", "name": "Isra et Miʿraj", "description": "Voyage nocturne et ascension du Prophète Muhammad." },
+  { "date": "2026-01-20", "name": "Début de Chaʿbân", "description": "Début de Chaʿbân ; le mois qui précède le Ramadan." },
+  { "date": "2026-02-03", "name": "Mi-Chaʿbân (Nisf Chaʿbân / Shab-e-Barat)", "description": "Nuit du pardon dans de nombreuses communautés musulmanes." },
+  { "date": "2026-02-19", "name": "Début du Ramadan", "description": "Début du mois de jeûne." },
+  { "date": "2026-03-16", "name": "Laylat al-Qadr (date probable)", "description": "Nuit du Destin ; largement observée la 27ᵉ nuit du Ramadan." },
+  { "date": "2026-03-20", "name": "Aïd al-Fitr (fête de la rupture du jeûne)", "description": "Fête marquant la fin du Ramadan." },
+  { "date": "2026-05-26", "name": "Jour de ʿArafat", "description": "9 Dhou al-Hijja ; point culminant du Hajj ; jeûne recommandé pour les non-pèlerins." },
+  { "date": "2026-05-27", "name": "Aïd al-Adha (fête du sacrifice)", "description": "Fête du sacrifice ; commémore la dévotion du prophète Ibrahim." },
+  { "date": "2026-06-16", "name": "Nouvel an hégirien (1 Mouharram 1448)", "description": "Début de l’année hégirienne ; un mois sacré commence." },
+  { "date": "2026-06-25", "name": "Achoura", "description": "10 Mouharram ; jeûne recommandé ; commémore aussi Karbala." }
+]
